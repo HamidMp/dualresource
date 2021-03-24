@@ -1,0 +1,20 @@
+{
+    "name": "hamidmp/dualresource",
+    "description": "DualResource - Parameters mapper for both request and response",
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "HamidMp\\DualResource\\": "src/"
+        }
+    },   "require": {
+        "php": "^7.4"
+    },
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Hamid Mousavipour",
+            "email": "hamidmp@gmail.com"
+        }
+    ]
+}
