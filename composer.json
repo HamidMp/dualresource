@@ -7,7 +7,7 @@
             "HamidMp\\DualResource\\": "src/"
         }
     },   "require": {
-        "php": "^7.4"
+        "php": "^7.4|^8.0"
     },
     "type": "library",
     "license": "MIT",
